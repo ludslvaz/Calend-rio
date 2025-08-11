@@ -42,7 +42,10 @@ Durante o desenvolvimento, pratiquei:
 - Alteração dinâmica de estilos e classes via **DOM**.
 - Implementação de **modo escuro** para melhorar a usabilidade.
 
----
+## 🔗 Acesse o Projeto
+
+O projeto está disponível online:  
+👉 **[Calendário Interativo na Vercel](https://calendario-alpha.vercel.app)**  
 
 📬 Contato
 Se quiser conversar sobre desenvolvimento, design ou oportunidades, fique à vontade para me chamar:
