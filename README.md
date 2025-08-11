@@ -34,7 +34,7 @@ cd nome-da-pasta
 # Abra o arquivo index.html no navegador
 
 ## 💡 Aprendizados
-
+```
 Durante o desenvolvimento, pratiquei:
 
 - Estruturação de componentes visuais com **HTML5 semântico**.
